@@ -1,4 +1,4 @@
-# Hi, I'm Yoendy Hernández 👋
+# Hi, I'm Yoendy Hernández
 
 ### Cybersecurity & IT Professional | Penetration Testing | Networking | Software Development
 
